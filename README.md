@@ -3,7 +3,7 @@
 Marketing portfolio for Ebrahim Arefi — brand strategy, copywriting, video
 production, and e-commerce work, presented as a single-page site.
 
-**Live:** https://ebi-ar.github.io/marketing-portfolio/
+**Live:** https://ebi-ar.github.io/portfolio/
 
 ## What's in it
 
